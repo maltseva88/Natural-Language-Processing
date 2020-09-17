@@ -964,7 +964,8 @@ displacy.render(doc, style='ent')
     Tom Wilson
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">PERSON</span>
 </mark>
-</br>* 
+
+</br>* 
 <mark class="entity" style="background: #bfe1d9; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Monthly
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">DATE</span>
@@ -984,7 +985,8 @@ displacy.render(doc, style='ent')
     a year
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">DATE</span>
 </mark>
-</br>* Much of the activity in 
+
+</br>* Much of the activity in 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Nigeria
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -999,7 +1001,8 @@ displacy.render(doc, style='ent')
     Kenya
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
-</br>* Driven by small businesses and migrant… [+7730 chars]“The COVID-19 pandemic has resulted in a mass shift to working from home, resulting in increased use of corporate 
+
+</br>* Driven by small businesses and migrant… [+7730 chars]“The COVID-19 pandemic has resulted in a mass shift to working from home, resulting in increased use of corporate 
 <mark class="entity" style="background: #bfeeb7; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     VPN
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">PRODUCT</span>
@@ -1059,7 +1062,8 @@ displacy.render(doc, style='ent')
     March
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">DATE</span>
 </mark>
-. </br>The biggest cryptocurrency gained 
+. 
+</br>The biggest cryptocurrency gained 
 <mark class="entity" style="background: #e4e7d2; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     4.4%
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">PERCENT</span>
@@ -1099,7 +1103,8 @@ displacy.render(doc, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- BTC every fucking day.</br>Welcome to another edition of 
+ BTC every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1129,7 +1134,8 @@ displacy.render(doc, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- BTC every fucking day.</br>Welcome to another edition of 
+ BTC every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1159,7 +1165,8 @@ displacy.render(doc, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- every fucking day.</br>Welcome to another edition of 
+ every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1189,7 +1196,8 @@ displacy.render(doc, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- every fucking day.</br>Welcome to another edition of 
+ every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1219,7 +1227,8 @@ displacy.render(doc, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- every fucking day.</br>Welcome to another edition of 
+ every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1244,7 +1253,8 @@ displacy.render(doc, style='ent')
     Blockfolio
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
-.</br>
+.
+</br>
 <mark class="entity" style="background: #7aecec; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     FTX
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">ORG</span>
@@ -1264,7 +1274,8 @@ displacy.render(doc, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- BTC every fucking day.</br>Welcome to another edition of 
+ BTC every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1294,7 +1305,8 @@ displacy.render(doc, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- BTC every fucking day.</br>Welcome to another edition of 
+ BTC every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1324,7 +1336,8 @@ displacy.render(doc, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- BTC every fucking day.</br>Welcome to another edition of 
+ BTC every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1354,7 +1367,8 @@ displacy.render(doc, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- BTC every fucking day.</br>Welcome to another edition of 
+ BTC every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1384,7 +1398,8 @@ displacy.render(doc, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- BTC every fucking day.</br>Welcome to another edition of 
+ BTC every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1414,7 +1429,8 @@ displacy.render(doc, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- BTC every fucking day.</br>Welcome to another edition of 
+ BTC every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1444,7 +1460,8 @@ displacy.render(doc, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- BTC every fucking day.</br>Welcome to another edition of 
+ BTC every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1474,7 +1491,8 @@ displacy.render(doc, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- BTC every fucking day.</br>Welcome to another edition of 
+ BTC every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1673,7 +1691,8 @@ displacy.render(doc_1, style='ent')
     97%
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">PERCENT</span>
 </mark>
- on list price.</br>The world of finance has always been complicated, and now th… [+2225 chars]TL;DR: The Mega Blockchain Mastery Bundle is on sale for £
+ on list price.
+</br>The world of finance has always been complicated, and now th… [+2225 chars]TL;DR: The Mega Blockchain Mastery Bundle is on sale for £
 <mark class="entity" style="background: #e4e7d2; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     29.81
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">MONEY</span>
@@ -1688,7 +1707,8 @@ displacy.render(doc_1, style='ent')
     97%
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">PERCENT</span>
 </mark>
- on list price.</br>Cash isn't necessarily king anymore. You've probably heard that cryptocurrency and bloc… [+1286 chars]LONDON (
+ on list price.
+</br>Cash isn't necessarily king anymore. You've probably heard that cryptocurrency and bloc… [+1286 chars]LONDON (
 <mark class="entity" style="background: #7aecec; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Reuters
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">ORG</span>
@@ -1733,7 +1753,8 @@ displacy.render(doc_1, style='ent')
     Tuesday
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">DATE</span>
 </mark>
-. </br>As part of the dea… [+1915 chars]An outspoken 
+. 
+</br>As part of the dea… [+1915 chars]An outspoken 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1748,7 +1769,8 @@ displacy.render(doc_1, style='ent')
     two
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">CARDINAL</span>
 </mark>
- crypto assets have potential.</br>The pseudonymous trader known as Joe007 says 
+ crypto assets have potential.
+</br>The pseudonymous trader known as Joe007 says 
 <mark class="entity" style="background: #7aecec; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     UNUS SED LEO
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">ORG</span>
@@ -1758,7 +1780,8 @@ displacy.render(doc_1, style='ent')
     LEO
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">ORG</span>
 </mark>
-) may be a soli… [+1503 chars]TLDR: With the training in the Interactive Learn to Code Bundle, students tackle big coding topics through hands-on exercises to help the learning really stick.</br>While coding is simple for some, that… [+2232 chars]Our robot colleague 
+) may be a soli… [+1503 chars]TLDR: With the training in the Interactive Learn to Code Bundle, students tackle big coding topics through hands-on exercises to help the learning really stick.
+</br>While coding is simple for some, that… [+2232 chars]Our robot colleague 
 <mark class="entity" style="background: #7aecec; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Satoshi Nakaboto
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">ORG</span>
@@ -1768,7 +1791,8 @@ displacy.render(doc_1, style='ent')
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- BTC every fucking day.</br>Welcome to another edition of 
+ BTC every fucking day.
+</br>Welcome to another edition of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1803,7 +1827,8 @@ displacy.render(doc_1, style='ent')
     bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
-, is stepping into the limelight.</br>The ethereum price, climbing 
+, is stepping into the limelight.
+</br>The ethereum price, climbing 
 <mark class="entity" style="background: #e4e7d2; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     more than 10%
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">PERCENT</span>
@@ -1833,7 +1858,8 @@ displacy.render(doc_1, style='ent')
     Fidelity
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">ORG</span>
 </mark>
- as part of its mission to make cryptocurrency more accessible</br>
+ as part of its mission to make cryptocurrency more accessible
+</br>
 <mark class="entity" style="background: #e4e7d2; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     $100 milli
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">MONEY</span>
@@ -1843,7 +1869,9 @@ displacy.render(doc_1, style='ent')
     twenty dollars
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">MONEY</span>
 </mark>
- on a white background.</br>getty</br>Since 
+ on a white background.
+</br>getty
+</br>Since 
 <mark class="entity" style="background: #bfe1d9; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     May
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">DATE</span>
@@ -1873,12 +1901,15 @@ displacy.render(doc_1, style='ent')
     Mateusz Slodkowski/
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">PERSON</span>
 </mark>
-SOPA Images/LightRocket via Getty Images)</br>SOPA Imag… [+2371 chars]The price of 
+SOPA Images/LightRocket via Getty Images)
+</br>SOPA Imag… [+2371 chars]The price of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
 </mark>
- looks to enter a new range after a key breakout.</br>SOPA Images/LightRocket via Getty Images</br>The price of 
+ looks to enter a new range after a key breakout.
+</br>SOPA Images/LightRocket via Getty Images
+</br>The price of 
 <mark class="entity" style="background: #feca74; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Bitcoin
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">GPE</span>
@@ -1913,7 +1944,8 @@ SOPA Images/LightRocket via Getty Images)</br>SOPA Imag… [+2371 chars]The pri
     UnikoinGold
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">ORG</span>
 </mark>
- cryptocurr… [+5630 chars]What happened</br>The stock market was nearly flat on 
+ cryptocurr… [+5630 chars]What happened
+</br>The stock market was nearly flat on 
 <mark class="entity" style="background: #bfe1d9; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Monday
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">DATE</span>
@@ -1933,22 +1965,27 @@ SOPA Images/LightRocket via Getty Images)</br>SOPA Imag… [+2371 chars]The pri
     3 p.m. EDT
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">TIME</span>
 </mark>
-.</br>
+.
+</br>
 <mark class="entity" style="background: #aa9cfc; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     Ho
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">PERSON</span>
 </mark>
-… [+1259 chars]September</br>
+… [+1259 chars]September
+</br>
 <mark class="entity" style="background: #bfe1d9; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     16, 2020
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">DATE</span>
 </mark>
-</br>
+
+</br>
 <mark class="entity" style="background: #e4e7d2; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     6 min
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">QUANTITY</span>
 </mark>
- read</br>Opinions expressed by Entrepreneur contributors are their own.</br>In 
+ read
+</br>Opinions expressed by Entrepreneur contributors are their own.
+</br>In 
 <mark class="entity" style="background: #bfe1d9; padding: 0.45em 0.6em; margin: 0 0.25em; line-height: 1; border-radius: 0.35em;">
     the past few months
     <span style="font-size: 0.8em; font-weight: bold; line-height: 1; border-radius: 0.35em; text-transform: uppercase; vertical-align: middle; margin-left: 0.5rem">DATE</span>
