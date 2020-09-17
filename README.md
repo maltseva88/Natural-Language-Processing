@@ -37,9 +37,6 @@ In this section, I used NLTK and Python to tokenize the text for each coin and l
 
 Finally, generated word clouds for each coin to summarize the news for each coin.
 
-![btc-word-cloud.png](Images/btc-word-cloud.png)
-
-![eth-word-cloud.png](Images/eth-word-cloud.png)
 
 #### Named Entity Recognition
 
